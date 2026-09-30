@@ -20,16 +20,16 @@ Exploro arquitetura de software, autenticação, visualização de dados e integ
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,dart,kotlin,java,html,css,sass&amp;theme=dark&amp;perline=8" alt="TypeScript, JavaScript, Dart, Kotlin, Java, HTML, CSS e Sass" />
+<img src="https://skillicons.dev/icons?i=ts,js,dart,kotlin,java,html,css&amp;theme=dark&amp;perline=7" alt="TypeScript, JavaScript, Dart, Kotlin, Java, HTML e CSS" />
 
 **TypeScript · JavaScript · Dart · Kotlin · Java**  
-HTML · CSS · SCSS
+HTML · CSS
 
 </div>
 
 ## Meu universo de tecnologias
 
-<img src="./assets/gauges.svg" width="100%" alt="Tecnologias em foco: Frontend 7, Backend 3, Mobile 4 e Dados 6" />
+<img src="./assets/gauges.svg" width="100%" alt="Tecnologias em foco: Frontend 5, Backend 3, Mobile 4 e Dados 6" />
 
 <sub>Os indicadores contam as tecnologias destacadas abaixo em cada área; não representam percentuais de proficiência.</sub>
 
@@ -37,7 +37,7 @@ HTML · CSS · SCSS
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui&amp;theme=dark" alt="React, Next.js, Vite, Tailwind CSS e Material UI" />
 
-**React · Next.js · Vite · Tailwind CSS · Material UI · shadcn/ui · Framer Motion**
+**React · Next.js · Vite · Tailwind CSS · Material UI**
 
 Componentes reutilizáveis, interfaces responsivas, navegação, animações e internacionalização.
 
@@ -70,14 +70,14 @@ Bancos relacionais, documentos, serviços em nuvem e armazenamento vetorial.
 - **IA aplicada:** Ollama, llama.cpp e integração com Gemini.
 - **Áudio:** integração com Google Cloud Speech para transcrição.
 - **Dashboards e gráficos:** Recharts e fl_chart.
-- **Interações e movimento:** Framer Motion e animações CSS.
+- **Interações e movimento:** animações CSS.
 
 ## Arquitetura e ferramentas
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,pnpm,jest&amp;theme=dark" alt="Docker, Git, GitHub, pnpm e Jest" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,pnpm&amp;theme=dark" alt="Docker, Git, GitHub, pnpm" />
 
-**Clean Architecture · Monorepos · OpenAPI · Zod**  
-Docker · Git · pnpm workspaces · Jest · Supertest · Playwright
+**Clean Architecture · Monorepos · OpenAPI**  
+Docker · Git · pnpm workspaces
 
 ---
 
