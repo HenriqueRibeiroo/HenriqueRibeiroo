@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Henrique Ribeiro — Web, Mobile e IA aplicada">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#16243b"/></linearGradient><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1000" height="280" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#24364f" stroke-width="1"><path d="M720 0v280M790 0v280M860 0v280M930 0v280M650 70h350M650 140h350M650 210h350"/></g>
+<circle cx="830" cy="139" r="76" fill="none" stroke="#38bdf8" stroke-width="1" opacity=".22"/>
+<circle cx="830" cy="139" r="102" fill="none" stroke="#a78bfa" stroke-width="1" opacity=".22"/>
+<g transform="translate(830 139)"><circle cx="76" cy="0" r="5" fill="#38bdf8"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite" additive="sum"/></g>
+<text x="830" y="158" text-anchor="middle" font-family="monospace" font-size="54" fill="#c4b5fd">&lt;/&gt;</text>
+<rect x="48" y="44" width="34" height="4" rx="2" fill="url(#accent)"/>
+<text x="48" y="83" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" fill="#94a3b8">DESENVOLVIMENTO &amp; TECNOLOGIA</text>
+<text x="46" y="143" font-family="Arial,sans-serif" font-size="46" font-weight="700" fill="#f1f5f9">Henrique Ribeiro</text>
+<text x="48" y="184" font-family="Arial,sans-serif" font-size="20" fill="#7dd3fc">Web · Mobile · IA aplicada</text>
+<text x="48" y="230" font-family="Arial,sans-serif" font-size="14" fill="#94a3b8">Interfaces, APIs e dados conectados.</text>
+<rect x="48" y="260" width="904" height="2" rx="1" fill="url(#accent)" opacity=".6"><animate attributeName="opacity" values=".3;.9;.3" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
