@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/HenriqueRibeiroo.png" width="130" style="border-radius: 50%; border: 3px solid #8B5CF6;" alt="Henrique Ribeiro" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jIGsnu/giphy.gif" width="280" alt="Animated Neural Network" />
   
   <h1 align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="40" />
@@ -55,8 +55,4 @@ Estudante de Engenharia de Software na PUC-Campinas e natural de São José do R
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueRibeiroo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueRibeiroo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="192" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer" width="100%" alt="Onda animada" />
 </div>
