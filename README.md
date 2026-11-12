@@ -48,7 +48,6 @@ Engenheiro de Software formado pela PUC-Campinas e natural de São José do Rio 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=HenriqueRibeiroo&background=002538&stroke=194960&ring=F5B33B&fire=F5B33B&currStreakNum=ffffff&currStreakLabel=F5B33B&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRibeiroo&layout=compact&bg_color=002538&title_color=F5B33B&text_color=ffffff&icon_color=F5B33B&border_color=194960&hide_border=false" alt="Top Langs" height="170" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=194960&height=120&section=footer" width="100%" />
