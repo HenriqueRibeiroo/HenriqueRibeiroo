@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Sou Henrique Ribeiro, desenvolvedor no Brasil. Meu foco está em conectar **interfaces, APIs e dados**, passando por aplicações web, mobile e integrações com inteligência artificial.
+Sou Henrique Ribeiro. Meu foco está em conectar **interfaces, APIs, dados, pesquisar novas tecnologias e nichos de mercado**, passando por aplicações web, mobile e integrações com inteligência artificial.
 
 Exploro arquitetura de software, autenticação, visualização de dados e integração entre serviços. Também estudo concorrência e sincronização de threads com Java.
 
@@ -20,50 +20,50 @@ Exploro arquitetura de software, autenticação, visualização de dados e integ
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,dart,kotlin,java,html,css&amp;theme=dark&amp;perline=7" alt="TypeScript, JavaScript, Dart, Kotlin, Java, HTML e CSS" />
+<img src="https://skillicons.dev/icons?i=js,dart,kotlin,java,html,css&amp;theme=dark&amp;perline=7" alt="JavaScript, Dart, Kotlin, Java, HTML e CSS" />
 
-**TypeScript · JavaScript · Dart · Kotlin · Java**  
+**JavaScript · Dart · Kotlin · Java**  
 HTML · CSS
 
 </div>
 
 ## Meu universo de tecnologias
 
-<img src="./assets/gauges.svg" width="100%" alt="Tecnologias em foco: Frontend 5, Backend 3, Mobile 4 e Dados 6" />
+## <img src="./assets/gauges.svg" width="100%" alt="Tecnologias em foco: Frontend 5, Backend 3, Mobile 4 e Dados 6" />
 
-<sub>Os indicadores contam as tecnologias destacadas abaixo em cada área; não representam percentuais de proficiência.</sub>
+## <sub>Os indicadores contam as tecnologias destacadas abaixo em cada área; não representam percentuais de proficiência.</sub>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui&amp;theme=dark" alt="React, Next.js, Vite, Tailwind CSS e Material UI" />
+## <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui&amp;theme=dark" alt="React, Next.js, Vite, Tailwind CSS e Material UI" />
 
-**React · Next.js · Vite · Tailwind CSS · Material UI**
+## **React · Next.js · Material UI**
 
-Componentes reutilizáveis, interfaces responsivas, navegação, animações e internacionalização.
+## Componentes reutilizáveis, interfaces responsivas, navegação, animações e internacionalização.
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&amp;theme=dark" alt="Node.js, NestJS e Express" />
+## <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&amp;theme=dark" alt="Node.js, NestJS e Express" />
 
-**Node.js · NestJS · Express**
+## **Node.js · NestJS · Express**
 
-APIs, autenticação com JWT, validação de dados e integração entre serviços.
+## APIs, autenticação com JWT, validação de dados e integração entre serviços.
 
 ### Mobile
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio&amp;theme=dark" alt="Flutter e desenvolvimento Android" />
+##<img src="https://skillicons.dev/icons?i=flutter,androidstudio&amp;theme=dark" alt="Flutter e desenvolvimento Android" />
 
-**Flutter · Android · GetX · Provider**
+## **Flutter · Android · GetX · Provider**
 
-Aplicativos multiplataforma, gerenciamento de estado, notificações e integração com recursos do dispositivo.
+## Aplicativos multiplataforma, gerenciamento de estado, notificações e integração com recursos do dispositivo.
 
 ### Dados
 
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase&amp;theme=dark" alt="MongoDB, SQLite e Firebase" />
+## <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase&amp;theme=dark" alt="MongoDB, SQLite e Firebase" />
 
-**MongoDB · Oracle · SQLite · Firebase · Firestore · Qdrant**
+## **MongoDB · Oracle · SQLite · Firebase · Firestore · Qdrant**
 
-Bancos relacionais, documentos, serviços em nuvem e armazenamento vetorial.
+## Bancos relacionais, documentos, serviços em nuvem e armazenamento vetorial.
 
 ## IA e visualização de dados
 
@@ -83,7 +83,7 @@ Docker · Git · pnpm workspaces
 
 <div align="center">
 
-**Vamos conectar ideias e construir algo útil.**
+**Vamos conectar ideias </>**
 
 [Converse comigo no LinkedIn](https://www.linkedin.com/in/henriquerib/)
 
