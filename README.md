@@ -1,22 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=194960&height=120&section=header" width="100%" />
 
-<div align="center">
-  <h1 align="center">Olá, sou o Henrique Ribeiro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /></h1>
+<h1 align="center">Olá, sou o Henrique Ribeiro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" /></h1>
 
-  <!-- Texto animado usando o amarelo/laranja da marca -->
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5B33B&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Gestão+de+Projetos;Inovação+e+Tecnologia" alt="Typing SVG" />
+</p>
 
-  <br><br>
-
-  <!-- Badges usando os tons de azul -->
+<p align="center">
   <a href="https://www.linkedin.com/in/henriquerib/">
     <img src="https://img.shields.io/badge/LinkedIn-Vamos_Conectar-194960?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/📍_S.J._Rio_Preto,_SP-002538?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/PUC--Campinas-Eng._de_Software-194960?style=for-the-badge" alt="PUC Campinas" />
-</div>
-
-<br>
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" width="25" /> Sobre mim
 
@@ -52,10 +48,9 @@ Gosto de acompanhar o **ciclo completo do produto**: desde o desenho estratégic
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Analytics
 
-<!-- Adicionado cache_seconds=86400 para evitar o erro "?" por bloqueio da API e servidor demolab para os Streaks -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueRibeiroo&show_icons=true&bg_color=002538&title_color=F5B33B&text_color=ffffff&icon_color=F5B33B&border_color=194960&hide_border=false&cache_seconds=86400" alt="GitHub Stats" height="170" />
   <img src="https://streak-stats.demolab.com/?user=HenriqueRibeiroo&background=002538&stroke=194960&ring=F5B33B&fire=F5B33B&currStreakNum=ffffff&currStreakLabel=F5B33B&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRibeiroo&layout=compact&bg_color=002538&title_color=F5B33B&text_color=ffffff&icon_color=F5B33B&border_color=194960&hide_border=false" alt="Top Langs" height="170" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=194960&height=120&section=footer" width="100%" />
