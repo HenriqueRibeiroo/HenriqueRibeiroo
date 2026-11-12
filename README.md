@@ -54,13 +54,6 @@ Estudante de Engenharia de Software na PUC-Campinas. Atuo na interseção entre 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquerib&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="192" />
 </div>
 
----
-
-## 🚧 O que estou construindo
-
-- 🎓 **Açaí Study:** Plataforma desktop focada na organização e produtividade para estudantes, com calendário iterativo e gestão visual de tarefas.
-- 🧠 **IA Aplicada:** Estudos de arquitetura, viabilidade e integração com modelos como Gemini, Ollama e soluções locais (llama.cpp).
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer" width="100%" alt="Onda animada" />
 </div>
