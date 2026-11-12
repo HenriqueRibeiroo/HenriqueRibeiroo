@@ -8,7 +8,7 @@
     Olá! Sou Henrique Ribeiro
   </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Gestão+de+Projetos+e+Inovação;Desenvolvimento+Web+e+Mobile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Gestão+de+Projetos+e+Inovação;Desenvolvimento+Web+e+Mobile" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/henriquerib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre mim
 
-Engenheiro de Software formado pela PUC-Campinas e natural de São José do Rio Preto. Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Gosto de acompanhar o ciclo completo do software: desde o desenho estratégico do produto e prototipação de interfaces, até a engenharia de código e integração de sistemas e IAs. Meu objetivo é entregar soluções eficientes que façam sentido real para o negócio.
+Estudante de Engenharia de Software na PUC-Campinas e natural de São José do Rio Preto. Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Gosto de acompanhar o ciclo completo do software: desde o desenho estratégico do produto e prototipação de interfaces, até a engenharia de código e integração de sistemas e IAs. Meu objetivo é entregar soluções eficientes que façam sentido real para o negócio.
 
 ---
 
@@ -55,6 +55,5 @@ Engenheiro de Software formado pela PUC-Campinas e natural de São José do Rio 
 ## 📊 Analytics do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueRibeiroo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueRibeiroo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="192" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueRibeiroo&theme=tokyonight" alt="GitHub Stats" width="800" />
 </div>
