@@ -1,34 +1,66 @@
-# Henrique Ribeiro
-*Gestão de Projetos, Inovação e Engenharia de Software*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" />
+  <h1 align="center">Olá! Sou Henrique Ribeiro</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquerib/)
-[![Campinas, SP](https://img.shields.io/badge/Campinas,_SP-27AE60?style=for-the-badge)]()
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Gestão+de+Projetos+e+Inovação;Desenvolvimento+Web+e+Mobile" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/henriquerib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/Campinas,_SP-27AE60?style=for-the-badge&logo=google-maps&logoColor=white" alt="Campinas" />
+  </p>
+</div>
+
+## 🚀 Sobre mim
+
+Estudante de Engenharia de Software na PUC-Campinas. Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Gosto de acompanhar o ciclo completo do software: desde o desenho estratégico do produto e prototipação de interfaces, até a engenharia de código e integração de sistemas e IAs. Meu objetivo é entregar soluções eficientes que façam sentido real para o negócio.
+
+---
+
+## 🎯 Gestão de Projetos & Inovação
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scrum-2C9EBA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Kanban-327A45?style=for-the-badge" alt="Kanban" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+## 💻 Tech Stack Principal
+
+<div align="left">
+  <b>Base:</b><br>
+  <img src="https://skillicons.dev/icons?i=java,python,js,dart&theme=dark" alt="Linguagens: Java, Python, JavaScript, Dart" />
+  <br><br>
+  <b>Frontend & Mobile:</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css&theme=dark" alt="Frontend & Mobile" />
+  <br><br>
+  <b>Backend & Dados:</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongo,sqlite&theme=dark" alt="Backend & Dados" />
+  <br><br>
+  <b>Ferramentas & Versionamento:</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="DevOps & Versionamento" />
+</div>
 
 ---
 
-## 📌 Sobre mim
-
-Sou estudante de Engenharia de Software na PUC-Campinas, com atuação focada em conectar **necessidades de negócio e tecnologia**. 
-
-Trabalho na interseção entre estratégia comercial, gestão de projetos e desenvolvimento. Meu objetivo é criar soluções que resolvam problemas reais de forma eficiente, acompanhando o ciclo de vida do software: desde o planejamento estratégico e prototipação de interfaces, até a integração de sistemas e APIs.
-
-## 🛠️ Tecnologias e Ferramentas
-
-Em vez de listar dezenas de frameworks, aqui está o núcleo do que eu utilizo e estudo no dia a dia para estruturar e desenvolver projetos:
-
-* **Gestão e Produto:** Metodologias Ágeis (Scrum, Kanban), Jira, Trello, Miro e Figma (para prototipação e UI).
-* **Desenvolvimento Base:** Java, JavaScript, Dart e Python.
-* **Frontend & Mobile:** Flutter (foco em apps multiplataforma), HTML, CSS, React e Next.js.
-* **Backend & Dados:** Node.js, Firebase (Firestore) e conceitos de bancos de dados relacionais e não-relacionais (MongoDB, SQLite).
-* **Fundamentos e Integrações:** Integração com APIs de Inteligência Artificial (Gemini, Ollama), Git/GitHub e modelagem de arquitetura.
-
-## 🚀 Projetos em andamento
-
-Divido meu tempo entre a gestão e inovação no setor corporativo (tecnologia e segurança) e o desenvolvimento de projetos próprios, como o **Açaí Study** — uma plataforma focada em produtividade e organização para estudantes.
-
----
+## 📊 Analytics do GitHub
 
 <div align="center">
-  <em>Sempre aberto a boas conversas sobre tecnologia, negócios e inovação.</em><br>
-  <a href="https://www.linkedin.com/in/henriquerib/">Conecte-se comigo no LinkedIn</a>
+  <!-- Troque "SEU_USUARIO" pelo seu @ do GitHub se não for henriquerib -->
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquerib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquerib&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="192" />
+</div>
+
+---
+
+## 🚧 O que estou construindo
+
+- 🎓 **Açaí Study:** Plataforma desktop focada na organização e produtividade para estudantes, com calendário iterativo e gestão visual de tarefas.
+- 🧠 **IA Aplicada:** Estudos de arquitetura, viabilidade e integração com modelos como Gemini, Ollama e soluções locais (llama.cpp).
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=150&section=footer" width="100%" alt="Onda animada" />
 </div>
