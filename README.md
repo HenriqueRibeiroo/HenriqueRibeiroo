@@ -1,59 +1,57 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Header" />
-  
-  <br />
+  <h1 align="center">Olá, sou o Henrique Ribeiro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /></h1>
 
-  <h1 align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" />
-    Olá! Sou Henrique Ribeiro
-  </h1>
+  <!-- Texto animado usando o amarelo/laranja da Safebras -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5B33B&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Gestão+de+Projetos;Inovação+e+Tecnologia" alt="Typing SVG" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Gestão+de+Projetos+e+Inovação;Desenvolvimento+Web+e+Mobile" alt="Typing SVG" />
+  <br><br>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/henriquerib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <img src="https://img.shields.io/badge/S%C3%A3o_Jos%C3%A9_do_Rio_Preto,_SP-27AE60?style=for-the-badge&logo=google-maps&logoColor=white" alt="São José do Rio Preto" />
-  </p>
+  <!-- Badges usando os tons de azul da Safebras -->
+  <a href="https://www.linkedin.com/in/henriquerib/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vamos_Conectar-194960?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/📍_S.J._Rio_Preto,_SP-002538?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/PUC--Campinas-Eng._de_Software-194960?style=for-the-badge" alt="PUC Campinas" />
 </div>
 
-## 🚀 Sobre mim
+<br>
 
-Estudante de Engenharia de Software na PUC-Campinas e natural de São José do Rio Preto. Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Gosto de acompanhar o ciclo completo do software: desde o desenho estratégico do produto e prototipação de interfaces, até a engenharia de código e integração de sistemas e IAs. Meu objetivo é entregar soluções eficientes que façam sentido real para o negócio.
+## 👨‍💻 Sobre mim
+
+Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Estudante de Engenharia de Software na PUC-Campinas e natural de São José do Rio Preto. 
+
+Gosto de acompanhar o **ciclo completo do produto**: desde o desenho estratégico e prototipação de interfaces, até a arquitetura, engenharia de código e integração com IAs. Meu objetivo é entregar soluções que façam sentido real para o negócio e gerem valor.
 
 ---
 
-## 🎯 Gestão de Projetos & Inovação
+## 🛠️ Stack & Ferramentas
+
+### 📊 Gestão e Inovação
+> Liderança técnica, metodologias ágeis e prototipação de interfaces.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Scrum-2C9EBA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Kanban-327A45?style=for-the-badge" alt="Kanban" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Scrum-194960?style=flat-square&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kanban-002538?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jira-194960?style=flat-square&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-002538?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-194960?style=flat-square&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-002538?style=flat-square&logo=Miro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F5B33B?style=flat-square&logo=figma&logoColor=333333" />
 </p>
 
-## 💻 Tech Stack Principal
+### 💻 Engenharia de Software
+> Desenvolvimento Web, Mobile, APIs e Bancos de Dados.
 
-<div align="left">
-  <b>Base:</b><br>
-  <img src="https://skillicons.dev/icons?i=java,python,js,dart&theme=dark" alt="Linguagens: Java, Python, JavaScript, Dart" />
-  <br><br>
-  <b>Frontend & Mobile:</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css&theme=dark" alt="Frontend & Mobile" />
-  <br><br>
-  <b>Backend & Dados:</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongo,sqlite&theme=dark" alt="Backend & Dados" />
-  <br><br>
-  <b>Ferramentas & Versionamento:</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="DevOps & Versionamento" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,dart,react,nextjs,flutter,nodejs,firebase,mongo,sqlite,git,docker&theme=dark" alt="Tech Stack" />
+</p>
 
 ---
 
-## 📊 Analytics do GitHub
+## 📈 Analytics
 
+<!-- Cards personalizados com as cores exatas: Fundo #002538, Borda #194960, Ícones/Títulos #F5B33B -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueRibeiroo&theme=tokyonight" alt="GitHub Stats" width="800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueRibeiroo&show_icons=true&bg_color=002538&title_color=F5B33B&text_color=ffffff&icon_color=F5B33B&border_color=194960&hide_border=false" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueRibeiroo&background=002538&stroke=194960&ring=F5B33B&fire=F5B33B&currStreakNum=ffffff&currStreakLabel=F5B33B&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="170" />
 </div>
