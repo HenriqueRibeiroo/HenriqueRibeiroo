@@ -16,9 +16,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" width="25" /> Sobre mim
 
-Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Estudante de Engenharia de Software na PUC-Campinas e natural de São José do Rio Preto. 
-
-Gosto de acompanhar o **ciclo completo do produto**: desde o desenho estratégico e prototipação de interfaces, até a arquitetura, engenharia de código e integração com IAs. Meu objetivo é entregar soluções que façam sentido real para o negócio e gerem valor.
+Engenheiro de Software formado pela PUC-Campinas e natural de São José do Rio Preto. Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Gosto de acompanhar o ciclo completo do software: desde o desenho estratégico do produto e prototipação de interfaces, até a engenharia de código e integração de sistemas e IAs. Meu objetivo é entregar soluções eficientes que façam sentido real para o negócio.
 
 ---
 
