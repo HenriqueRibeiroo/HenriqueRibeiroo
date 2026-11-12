@@ -1,80 +1,88 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Henrique Ribeiro — Desenvolvimento web, mobile e IA aplicada" />
+<img src="./assets/header.svg" width="100%" alt="Henrique Ribeiro — Inovação, Gestão e Desenvolvimento de Software" />
 
 <br />
 
 <a href="https://www.linkedin.com/in/henriquerib/"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Brasil-27AE60?style=for-the-badge" alt="Brasil" />
-<img src="https://img.shields.io/badge/Foco-Web_%C2%B7_Mobile_%C2%B7_IA-8B5CF6?style=for-the-badge" alt="Web, Mobile e IA" />
+<img src="https://img.shields.io/badge/Foco-Gestão_%C2%B7_Web_%C2%B7_Mobile_%C2%B7_IA-8B5CF6?style=for-the-badge" alt="Gestão, Web, Mobile e IA" />
 
 </div>
 
 ## Sobre mim
 
-Sou Henrique Ribeiro. Meu foco está em conectar **interfaces, APIs, dados, pesquisar novas tecnologias e nichos de mercado**, passando por aplicações web, mobile e integrações com inteligência artificial.
+Sou Henrique Ribeiro, estudante de Engenharia de Software na PUC-Campinas. Meu foco está na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**, conectando necessidades de mercado a soluções eficientes. 
 
-Exploro arquitetura de software, autenticação, visualização de dados e integração entre serviços. Também estudo concorrência e sincronização de threads com Java.
+Atuo no desenvolvimento de negócios e arquitetura de projetos, passando por aplicações web, mobile e integrações com inteligência artificial. Nos bastidores do código, estudo concorrência e sincronização de threads com Java, além de modelagem de dados e integrações complexas.
 
 ## Linguagens
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,dart,kotlin,java,html,css&amp;theme=dark&amp;perline=7" alt="JavaScript, Dart, Kotlin, Java, HTML e CSS" />
+<img src="https://skillicons.dev/icons?i=js,dart,kotlin,java,html,css,python&amp;theme=dark&amp;perline=7" alt="JavaScript, Dart, Kotlin, Java, HTML, CSS e Python" />
 
-**JavaScript · Dart · Kotlin · Java**  
+**JavaScript · Dart · Kotlin · Java · Python**  
 HTML · CSS
 
 </div>
 
-## Meu universo de tecnologias
+## Meu universo de ferramentas e tecnologias
 
-## <img src="./assets/gauges.svg" width="100%" alt="Tecnologias em foco: Frontend 5, Backend 3, Mobile 4 e Dados 6" />
+## <img src="./assets/gauges.svg" width="100%" alt="Tecnologias em foco" />
 
-## <sub>Os indicadores contam as tecnologias destacadas abaixo em cada área; não representam percentuais de proficiência.</sub>
+## <sub>As áreas abaixo destacam as principais ferramentas, frameworks e metodologias que utilizo no dia a dia.</sub>
+
+### Gestão de Projetos e Inovação
+
+## <img src="https://skillicons.dev/icons?i=figma,notion,discord,github&amp;theme=dark" alt="Figma e Ferramentas de Gestão" />
+
+## **Scrum · Kanban · Jira · Trello · Confluence · Miro · Figma**
+
+## Liderança técnica, estratégia comercial, metodologias ágeis, prototipação de interfaces e organização de fluxos de trabalho.
 
 ### Frontend
 
-## <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui&amp;theme=dark" alt="React, Next.js, Vite, Tailwind CSS e Material UI" />
+## <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&amp;theme=dark" alt="React, Next.js, Vite, Tailwind CSS" />
 
-## **React · Next.js · Material UI**
+## **React · Next.js · Vite · Tailwind CSS**
 
 ## Componentes reutilizáveis, interfaces responsivas, navegação, animações e internacionalização.
 
 ### Backend
 
-## <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&amp;theme=dark" alt="Node.js, NestJS e Express" />
+## <img src="https://skillicons.dev/icons?i=nodejs,nestjs&amp;theme=dark" alt="Node.js, NestJS" />
 
-## **Node.js · NestJS · Express**
+## **Node.js · NestJS**
 
-## APIs, autenticação com JWT, validação de dados e integração entre serviços.
+## APIs robustas, autenticação com JWT, validação de dados e integração entre serviços.
 
 ### Mobile
 
 ##<img src="https://skillicons.dev/icons?i=flutter,androidstudio&amp;theme=dark" alt="Flutter e desenvolvimento Android" />
 
-## **Flutter · Android · GetX · Provider**
+## **Flutter · Android**
 
-## Aplicativos multiplataforma, gerenciamento de estado, notificações e integração com recursos do dispositivo.
+## Aplicativos multiplataforma focados em performance, notificações e integração nativa com recursos do dispositivo.
 
 ### Dados
 
-## <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase&amp;theme=dark" alt="MongoDB, SQLite e Firebase" />
+## <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,redis&amp;theme=dark" alt="MongoDB, SQLite, Firebase, Redis" />
 
-## **MongoDB · Oracle · SQLite · Firebase · Firestore · Qdrant**
+## **MongoDB · Neo4j · Redis · Oracle · SQLite · Firebase (Firestore) · DynamoDB**
 
-## Bancos relacionais, documentos, serviços em nuvem e armazenamento vetorial.
+## Bancos relacionais, modelagem de grafos, armazenamento em memória, documentos e serviços em nuvem.
 
 ## IA e visualização de dados
 
 - **IA aplicada:** Ollama, llama.cpp e integração com Gemini.
-- **Áudio:** integração com Google Cloud Speech para transcrição.
+- **Áudio:** Integração com Google Cloud Speech para transcrição.
 - **Dashboards e gráficos:** Recharts e fl_chart.
-- **Interações e movimento:** animações CSS.
+- **Interações e movimento:** Animações CSS.
 
-## Arquitetura e ferramentas
+## Arquitetura e versionamento
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,pnpm&amp;theme=dark" alt="Docker, Git, GitHub, pnpm" />
+<img src="https://skillicons.dev/icons?i=docker,git,pnpm&amp;theme=dark" alt="Docker, Git, pnpm" />
 
 **Clean Architecture · Monorepos · OpenAPI**  
 Docker · Git · pnpm workspaces
