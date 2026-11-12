@@ -49,9 +49,9 @@ Estudante de Engenharia de Software na PUC-Campinas. Atuo na interseção entre 
 ## 📊 Analytics do GitHub
 
 <div align="center">
-  <!-- Troque "SEU_USUARIO" pelo seu @ do GitHub se não for henriquerib -->
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquerib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquerib&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="192" />
+  <!-- ATENÇÃO: Substitua "SEU_USUARIO_AQUI" pelo seu username do GitHub para as imagens abaixo funcionarem -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueRibeiroo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="192" />
 </div>
 
 <div align="center">
