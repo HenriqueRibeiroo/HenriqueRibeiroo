@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=194960&height=120&section=header" width="100%" />
 
-<h1 align="center">Olá, sou o Henrique Ribeiro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="15" align="center" /></h1>
+<h1 align="center">Olá, sou o Henrique Ribeiro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5B33B&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Gestão+de+Projetos;Inovação+e+Tecnologia" alt="Typing SVG" />
