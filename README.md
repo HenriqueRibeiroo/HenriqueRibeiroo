@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" />
-  <h1 align="center">Olá! Sou Henrique Ribeiro</h1>
+  <img src="https://github.com/HenriqueRibeiroo.png" width="130" style="border-radius: 50%; border: 3px solid #8B5CF6;" alt="Henrique Ribeiro" />
+  
+  <h1 align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="40" />
+    Olá! Sou Henrique Ribeiro
+  </h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Gestão+de+Projetos+e+Inovação;Desenvolvimento+Web+e+Mobile" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/henriquerib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <img src="https://img.shields.io/badge/Campinas,_SP-27AE60?style=for-the-badge&logo=google-maps&logoColor=white" alt="Campinas" />
+    <img src="https://img.shields.io/badge/S%C3%A3o_Jos%C3%A9_do_Rio_Preto,_SP-27AE60?style=for-the-badge&logo=google-maps&logoColor=white" alt="São José do Rio Preto" />
   </p>
 </div>
 
 ## 🚀 Sobre mim
 
-Estudante de Engenharia de Software na PUC-Campinas. Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Gosto de acompanhar o ciclo completo do software: desde o desenho estratégico do produto e prototipação de interfaces, até a engenharia de código e integração de sistemas e IAs. Meu objetivo é entregar soluções eficientes que façam sentido real para o negócio.
+Estudante de Engenharia de Software na PUC-Campinas e natural de São José do Rio Preto. Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Gosto de acompanhar o ciclo completo do software: desde o desenho estratégico do produto e prototipação de interfaces, até a engenharia de código e integração de sistemas e IAs. Meu objetivo é entregar soluções eficientes que façam sentido real para o negócio.
 
 ---
 
@@ -49,9 +53,8 @@ Estudante de Engenharia de Software na PUC-Campinas. Atuo na interseção entre 
 ## 📊 Analytics do GitHub
 
 <div align="center">
-  <!-- ATENÇÃO: Substitua "SEU_USUARIO_AQUI" pelo seu username do GitHub para as imagens abaixo funcionarem -->
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueRibeiroo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="192" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueRibeiroo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="192" />
 </div>
 
 <div align="center">
