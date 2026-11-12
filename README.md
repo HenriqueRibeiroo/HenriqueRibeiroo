@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre mim
 
-Estudante de Engenharia de Software na PUC-Campinas e natural de São José do Rio Preto. Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Gosto de acompanhar o ciclo completo do software: desde o desenho estratégico do produto e prototipação de interfaces, até a engenharia de código e integração de sistemas e IAs. Meu objetivo é entregar soluções eficientes que façam sentido real para o negócio.
+Engenheiro de Software formado pela PUC-Campinas e natural de São José do Rio Preto. Atuo na interseção entre **estratégia de negócios, gestão de projetos e tecnologia**. Gosto de acompanhar o ciclo completo do software: desde o desenho estratégico do produto e prototipação de interfaces, até a engenharia de código e integração de sistemas e IAs. Meu objetivo é entregar soluções eficientes que façam sentido real para o negócio.
 
 ---
 
