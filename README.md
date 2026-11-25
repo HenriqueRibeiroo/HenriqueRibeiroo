@@ -34,13 +34,3 @@ Engenheiro de Software formado pela PUC-Campinas e natural de São José do Rio 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,dart,react,nextjs,flutter,nodejs,firebase,mongo,sqlite,git,docker&theme=dark" alt="Tech Stack" />
 </p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HenriqueRibeiroo&background=002538&stroke=194960&ring=F5B33B&fire=F5B33B&currStreakNum=ffffff&currStreakLabel=F5B33B&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="170" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=194960&height=100&section=footer" width="100%" />
